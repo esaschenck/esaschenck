@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello! My name's Esa.
+-----------
 
-<!--
-**esaschenck/esaschenck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student at Smith College
 
-Here are some ideas to get you started:
+**Major** Statistical & Data Sciences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Minor** Sociology
+
+**Research Assistant** with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV)
+
+**Studying** Spanish in Cordoba, Spain for the 2021-22 Academic Year
+
+**From** the Bronx, NY
+
+**20** yrs. old
+
+**Pronouns** `they/them`
+
+-----------
+- I'm currently working with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) to research the effects of interaction on Bayesian Reasoning visualizatons
+- I primarily use R and python
+- I’m currently learning javascript
+- How to reach me: esaschenck@gmail.com
+-----------
