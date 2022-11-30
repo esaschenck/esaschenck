@@ -28,7 +28,7 @@ esaschenck@gmail.com
 
 ### Skills
 
-I primarily program in R and python, with some javascript.
+I primarily program in R and Python, but am also proficient in HTML, CSS, and Javascript.
 
 I'm fluent in Spanish, and studied in at the University of Córdoba in Spain for the 2021-22 school year.
 
