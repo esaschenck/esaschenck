@@ -1,23 +1,41 @@
 ### Hello! My name's Esa.
+
+I'm currently working with [Jordan Crouser](https://jcrouser.github.io/) at the [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) to research the effects of personality on individual analysis of data. I previously researched interaction on Bayesian Reasoning visualizatons.
+
 -----------
 
-### Student at Smith College
+### Smith College '23
 
 **Major** Statistical & Data Sciences
 
 **Minor** Sociology
 
-**Research Assistant** with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV)
+**Research Assistant** with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) since May 2022.
 
 **From** the Bronx, NY
-
-**21** yrs. old
 
 **Pronouns** `they/them`
 
 -----------
-- I'm currently working with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) to research the effects of personality on individual analysis of data. I previously researched interaction on Bayesian Reasoning visualizatons.
-- I primarily use R and python
-- I’m currently learning javascript
-- How to reach me: esaschenck@gmail.com
+
+### Contact Me
+
+esaschenck@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/esaschenck/)
+
 -----------
+
+### Skills
+
+I primarily program in R and python, with some javascript.
+
+I'm fluent in Spanish, and studied in at the University of Córdoba in Spain for the 2021-22 school year.
+
+### Relevant History 
+
+Presenting *Personalizing the Delivery of Analytic Products for Individual Decision-Makers* at the [Laboratory for Analytic Sciences 2022 Research Symposium](https://ncsu-las.org/symposium/symposium-2022/) in Raleigh, NC.
+
+Classroom Assistant for Smith College's 2022 [Summer Science & Engineering Program](https://www.smith.edu/academics/precollege-programs/summer-science-engineering), teaching *Introduction to Ethical Data Sciences* with [Prof. Ab Mosca](https://www.smith.edu/academics/faculty/ab-mosca).
+
+Student Grader for *Intro to Data Sciences* at Smith College, Spring 2020.
