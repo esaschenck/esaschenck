@@ -32,6 +32,8 @@ I primarily program in R and python, with some javascript.
 
 I'm fluent in Spanish, and studied in at the University of Córdoba in Spain for the 2021-22 school year.
 
+-----------
+
 ### Relevant History 
 
 Presenting *Personalizing the Delivery of Analytic Products for Individual Decision-Makers* at the [Laboratory for Analytic Sciences 2022 Research Symposium](https://ncsu-las.org/symposium/symposium-2022/) in Raleigh, NC.
