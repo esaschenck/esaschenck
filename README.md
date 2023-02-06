@@ -1,6 +1,6 @@
 ### Hello! My name's Esa.
 
-I'm currently working with [Jordan Crouser](https://jcrouser.github.io/) at the [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) to research the effects of personality on individual analysis of data. I previously researched interaction on Bayesian Reasoning visualizatons.
+I'm currently working with [Prof. Jordan Crouser](https://jcrouser.github.io/) at the [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) to research the effects of personality on individual analysis of data. I previously researched interaction on Bayesian Reasoning visualizatons.
 
 -----------
 
